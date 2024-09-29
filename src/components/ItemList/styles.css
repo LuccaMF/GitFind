@@ -1,0 +1,17 @@
+.item-list {
+    margin-top: 25px;
+}
+
+.item-list strong {
+    color: #539BF5;
+    font-size: 1.5rem;
+}
+
+.item-list p {
+    color: #9999;
+    font-size: 1.2rem;
+}
+
+hr {
+    margin-top: 25px;
+}
