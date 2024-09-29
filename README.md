@@ -33,7 +33,7 @@ GitFind is a simple and efficient tool to search for any GitHub user profile and
 
 ## Demo
 
-Check out the live demo <a href='https://gitfind-eight.vercel.app/' target="_blank">Here<a/>.
+Check out the live demo <a href='https://gitfind-eight.vercel.app/' target='_blank'>Here<a/>.
 
 ## Installation and Setup
 
